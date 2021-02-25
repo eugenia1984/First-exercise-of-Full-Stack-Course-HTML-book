@@ -14,11 +14,9 @@ This Project only has one master branch, it was a small project so it did not ne
 
 ## Stack of technologies 🛠️
 
-**HTML5** **CSS3**
+**HTML5** and **CSS3**
 
-## Demo 📦
-_If you want to see how this project was, you can do it from:
-:arrow_right: https://eugenia1984.github.io/ Euge-s-Café-con-Bootstrap
+
  
 
 ## Please: 🎁
@@ -50,11 +48,8 @@ Este proyecto solo tiene una rama maestra, era un proyecto pequeño por lo que n
 
 ## Pila de tecnologías 🛠️
 
-** HTML5 ** ** CSS3 **
+**HTML5** y **CSS3**
 
-## Demo 📦
-_Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
-: arrow_right: https://eugenia1984.github.io/ Euge-s-Café-con-Bootstrap
  
 
 ## Por favor: 🎁
