@@ -5,7 +5,7 @@ ENGLISH
 I am taking the **Full Stack** course with **Programando Desde Tu Casa**  and as a first practice we must create a website that will be an HTML book, which on its main page has a title and four links with a name of a story of Gabriel García Marquez, each of them leads to another website, which has the link to return to the main page.
 
 ## What I did 🚀
-The header only has the name of gabirel García Marquez, the author of whom I share four of his stories. <br>
+The header only has the name of Gabriel García Marquez, the author of whom I share four of his stories. <br>
 And with an ordered list I name the stories, which each one has a link to go to another website with the story. <br>
 The footer has a legend.
 
@@ -39,7 +39,7 @@ ESPAÑOL
 Estoy tomando el curso ** Full Stack ** con ** Programando Desde Tu Casa ** y como primera práctica debemos crear un sitio web que será un libro HTML, que en su página principal tiene un título y cuatro enlaces con un nombre de una historia de Gabriel García Márquez, cada uno de ellos conduce a otro sitio web, el cual tiene el enlace para volver a la página principal.
 
 ## Lo que hice 🚀
-La cabecera solo tiene el nombre de gabirel García Márquez, cuyo autor les comparto cuatro de sus historias. <br>
+La cabecera solo tiene el nombre de Gabriel García Márquez, cuyo autor les comparto cuatro de sus historias. <br>
 Y con una lista ordenada nombro las historias, cada una tiene un enlace para ir a otra web con la historia. <br>
 El pie de página tiene una leyenda.
 
